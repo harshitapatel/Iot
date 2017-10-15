@@ -32,7 +32,7 @@ public class MainActivity_map extends AppCompatActivity {
                     exit = false;
                 }
             }, 3 * 1000);
-
+            System.exit(0);
         }
 
     }
